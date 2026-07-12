@@ -241,7 +241,7 @@ def generate_svg(mode):
                 <g transform="translate(0, 140)" font-family="monospace" font-size="16" fill="{muted_color}">
                     <text x="0" y="0" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> location = <tspan fill="{text_color}">"Chh. Sambhajinagar (M.H.), India"</tspan>;</text>
                     <text x="0" y="28" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> education = <tspan fill="{text_color}">"Computer Science"</tspan>;</text>
-                    <text x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> focus = <tspan fill="{text_color}">"Building Scalable & Production-level Apps"</tspan>;</text>
+                    <text x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> focus = <tspan fill="{text_color}">"Building Scalable &amp; Production-level Apps"</tspan>;</text>
                     <text x="0" y="84" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> email = <tspan fill="{text_color}">"shloktechnical@gmail.com"</tspan>;</text>
                 </g>
 

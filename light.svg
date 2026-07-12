@@ -276,7 +276,7 @@
                 <g transform="translate(0, 140)" font-family="monospace" font-size="16" fill="#475569">
                     <text x="0" y="0" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze" /><tspan fill="#06B6D4">const</tspan> location = <tspan fill="#0F172A">"Chh. Sambhajinagar (M.H.), India"</tspan>;</text>
                     <text x="0" y="28" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze" /><tspan fill="#06B6D4">const</tspan> education = <tspan fill="#0F172A">"Computer Science"</tspan>;</text>
-                    <text x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze" /><tspan fill="#06B6D4">const</tspan> focus = <tspan fill="#0F172A">"Building Scalable & Production-level Apps"</tspan>;</text>
+                    <text x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze" /><tspan fill="#06B6D4">const</tspan> focus = <tspan fill="#0F172A">"Building Scalable &amp; Production-level Apps"</tspan>;</text>
                     <text x="0" y="84" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze" /><tspan fill="#06B6D4">const</tspan> email = <tspan fill="#0F172A">"shloktechnical@gmail.com"</tspan>;</text>
                 </g>
 
