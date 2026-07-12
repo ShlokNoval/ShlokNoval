@@ -101,11 +101,8 @@ def generate_svg(mode):
             <feGaussianBlur stdDeviation="30"/>
         </filter>
         
-        <filter id="noise">
-            <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch"/>
-            <feColorMatrix type="matrix" values="1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 0.05 0" />
-        </filter>
-
+        <!-- Noise filter removed for GitHub compatibility -->
+        
         <!-- Clip Paths -->
         <clipPath id="typing-clip">
             <rect x="0" y="-30" width="0" height="60">
@@ -134,10 +131,7 @@ def generate_svg(mode):
     <circle cx="600" cy="100" r="220" fill="{bg_glow_3}" filter="url(#blur-bg)">
         <animateMotion path="M 0,0 a 70,70 0 1,1 140,0 a 70,70 0 1,1 -140,0" dur="18s" repeatCount="indefinite" />
     </circle>
-    
-    <!-- Noise overlay -->
-    <!-- The noise texture sometimes renders oddly on GitHub, but using it with 0.05 opacity shouldn't break anything. -->
-    <rect width="{width}" height="{height}" style="pointer-events:none;" filter="url(#noise)" opacity="0.3" rx="24" />
+
 
     <!-- Particles -->
 """
