@@ -35,7 +35,7 @@ def generate_svg(mode):
     height = 610
 
     # Skills
-    skills = ["React", "Next.js", "Node.js", "TypeScript", "Tailwind", "Python", "Docker", "Postgres", "AWS", "Git", "Figma"]
+    skills = ["Python", "C++", "Next.js", "Flutter", "Node.js", "LLaMA 3", "Firebase", "GCP", "MATLAB", "Docker", "Dart"]
 
     # ASCII portrait lines
     ascii_art = [
@@ -210,13 +210,13 @@ def generate_svg(mode):
             <g clip-path="url(#reveal-clip)">
                 <!-- Greeting -->
                 <text x="0" y="30" fill="{text_color}" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="bold">
-                    Hi 👋 I'm Developer
+                    Hi 👋 I'm Shlok Noval
                 </text>
                 
                 <!-- Animated Typing Text -->
                 <g transform="translate(0, 75)">
                     <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)">
-                        &gt; Frontend Engineer
+                        &gt; AI &amp; ML Enthusiast
                     </text>
                     <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)" opacity="0">
                         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.55;0.55;1" dur="20s" repeatCount="indefinite" />
@@ -224,11 +224,11 @@ def generate_svg(mode):
                     </text>
                     <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)" opacity="0">
                         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.55;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
-                        &gt; AI Enthusiast
+                        &gt; Flutter App Developer
                     </text>
                     <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)" opacity="0">
                         <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
-                        &gt; Open Source Contributor
+                        &gt; 6x Hackathon Winner
                     </text>
                     <!-- Blinking Cursor -->
                     <rect x="0" y="-22" width="12" height="26" fill="url(#accent-gradient)">
@@ -239,10 +239,10 @@ def generate_svg(mode):
 
                 <!-- Personal Info -->
                 <g transform="translate(0, 140)" font-family="monospace" font-size="16" fill="{muted_color}">
-                    <text x="0" y="0" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> location = <tspan fill="{text_color}">"Earth"</tspan>;</text>
+                    <text x="0" y="0" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> location = <tspan fill="{text_color}">"Chh. Sambhajinagar (M.H.), India"</tspan>;</text>
                     <text x="0" y="28" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> education = <tspan fill="{text_color}">"Computer Science"</tspan>;</text>
-                    <text x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> focus = <tspan fill="{text_color}">"Building Scalable Apps"</tspan>;</text>
-                    <text x="0" y="84" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> email = <tspan fill="{text_color}">"hello@example.com"</tspan>;</text>
+                    <text x="0" y="56" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> focus = <tspan fill="{text_color}">"Building Scalable & Production-level Apps"</tspan>;</text>
+                    <text x="0" y="84" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze" /><tspan fill="{accent_2}">const</tspan> email = <tspan fill="{text_color}">"shloktechnical@gmail.com"</tspan>;</text>
                 </g>
 
                 <!-- Skills Section -->
