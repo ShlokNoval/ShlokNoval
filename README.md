@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="light.svg#gh-light-mode-only" alt="Developer Profile Hero Banner" width="100%">
-  <img src="dark.svg#gh-dark-mode-only" alt="Developer Profile Hero Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShlokNoval/ShlokNoval/main/light.svg#gh-light-mode-only" alt="Developer Profile Hero Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShlokNoval/ShlokNoval/main/dark.svg#gh-dark-mode-only" alt="Developer Profile Hero Banner" width="100%">
 </div>
 
 ### Hi there 👋
