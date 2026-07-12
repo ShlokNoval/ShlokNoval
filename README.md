@@ -16,9 +16,3 @@ Welcome to my GitHub profile! I'm an AI & ML Enthusiast and Full Stack Developer
 - 💬 **Ask me about:** Python, Next.js, Flutter, and LLaMA 3.
 - 📫 **Reach me at:** shloktechnical@gmail.com
 
-<br>
-<br>
-
-<div align="center">
-  <i>The header above is 100% SVG generated with SMIL animations!</i>
-</div>
