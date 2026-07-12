@@ -244,21 +244,24 @@
                 
                 <!-- Animated Typing Text -->
                 <g transform="translate(0, 75)">
-                    <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)">
-                        &gt; AI &amp; ML Enthusiast
-                    </text>
-                    <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)" opacity="0">
-                        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.55;0.55;1" dur="20s" repeatCount="indefinite" />
-                        &gt; Full Stack Developer
-                    </text>
-                    <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)" opacity="0">
-                        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.55;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
-                        &gt; Flutter App Developer
-                    </text>
-                    <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" clip-path="url(#typing-clip)" opacity="0">
-                        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
-                        &gt; 6x Hackathon Winner
-                    </text>
+                    <g clip-path="url(#typing-clip)">
+                        <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold">
+                            <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.25;0.25;0.55;0.55;1" dur="20s" repeatCount="indefinite" />
+                            &gt; AI &amp; ML Engineer
+                        </text>
+                        <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
+                            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.55;0.55;1" dur="20s" repeatCount="indefinite" />
+                            &gt; Full Stack Developer
+                        </text>
+                        <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
+                            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.55;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
+                            &gt; Flutter App Developer
+                        </text>
+                        <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
+                            <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
+                            &gt; 6x Hackathon Winner
+                        </text>
+                    </g>
                     <!-- Blinking Cursor -->
                     <rect x="0" y="-22" width="12" height="26" fill="url(#accent-gradient)">
                         <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />

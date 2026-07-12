@@ -7,12 +7,14 @@
 
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate developer focusing on building scalable applications and learning new technologies.
+Welcome to my GitHub profile! I'm an AI & ML Enthusiast and Full Stack Developer. 
 
-- 🔭 I’m currently working on open-source projects
-- 🌱 I’m currently learning advanced web architectures
-- 💬 Ask me about React, Node.js, and Python
-- ⚡ Fun fact: I love to automate everything!
+- 🎓 **Education:** CSE '27 Student
+- 🏆 **Achievements:** 6x Hackathon Winner | Microsoft MOS AIR 2 (2021)
+- 💼 **Experience:** Ex - AIML Intern @ IIT Hyderabad | Ex - TEDxMGMU | Ex-GDG
+- 🚀 **Projects:** Working on scalable applications, automated systems, and more.
+- 💬 **Ask me about:** Python, Next.js, Flutter, and LLaMA 3.
+- 📫 **Reach me at:** shloktechnical@gmail.com
 
 <br>
 <br>
