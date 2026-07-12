@@ -276,46 +276,9 @@ def generate_svg(mode):
         sx += pill_width + 12
         delay += 0.1
 
-    svg += f"""
                     </g>
                 </g>
 
-                <!-- Social Icons -->
-                <g transform="translate(0, 420)" opacity="0">
-                    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.5s" fill="freeze" />
-                    <!-- GitHub -->
-                    <g transform="translate(0, 0)">
-                        <circle cx="20" cy="20" r="20" fill="{border_color}" />
-                        <path d="M20,10 C14.477,10 10,14.477 10,20 C10,24.418 12.865,28.166 16.839,29.493 C17.339,29.585 17.522,29.277 17.522,29.014 C17.522,28.782 17.513,27.98 17.508,26.759 C14.726,27.362 14.139,25.645 14.139,25.645 C13.684,24.492 13.028,24.185 13.028,24.185 C12.121,23.565 13.097,23.578 13.097,23.578 C14.101,23.648 14.629,24.61 14.629,24.61 C15.521,26.14 16.969,25.698 17.541,25.437 C17.632,24.787 17.893,24.346 18.181,24.095 C15.959,23.843 13.626,22.984 13.626,19.475 C13.626,18.475 13.984,17.654 14.571,17.009 C14.476,16.757 14.162,15.827 14.661,14.542 C14.661,14.542 15.431,14.296 17.498,15.695 C18.229,15.492 19.006,15.39 19.775,15.387 C20.543,15.39 21.319,15.492 22.052,15.695 C24.117,14.296 24.885,14.542 24.885,14.542 C25.385,15.827 25.072,16.757 24.978,17.009 C25.567,17.654 25.922,18.475 25.922,19.475 C25.922,22.993 23.585,23.84 21.356,24.085 C21.719,24.398 22.045,25.016 22.045,25.962 C22.045,27.317 22.033,28.406 22.033,28.736 C22.033,29.004 22.213,29.317 22.721,29.224 C26.903,27.818 30,24.232 30,20 C30,14.477 25.523,10 20,10" fill="{text_color}" />
-                        <circle cx="20" cy="20" r="20" fill="none" stroke="url(#accent-gradient)" stroke-width="1.5" opacity="0" filter="url(#soft-glow)">
-                            <animate attributeName="opacity" values="0; 0.5; 0" dur="4s" begin="3.5s" repeatCount="indefinite" />
-                        </circle>
-                    </g>
-                    <!-- LinkedIn -->
-                    <g transform="translate(60, 0)">
-                        <circle cx="20" cy="20" r="20" fill="{border_color}" />
-                        <path d="M13.682,27.135 H10.237 V15.753 H13.682 V27.135 Z M11.959,14.204 C10.857,14.204 9.963,13.309 9.963,12.207 C9.963,11.106 10.857,10.211 11.959,10.211 C13.061,10.211 13.955,11.106 13.955,12.207 C13.955,13.309 13.061,14.204 11.959,14.204 Z M30,27.135 H26.558 V21.61 C26.558,20.292 26.533,18.599 24.727,18.599 C22.894,18.599 22.613,20.031 22.613,21.517 V27.135 H19.171 V15.753 H22.482 V17.307 H22.527 C22.989,16.433 24.119,15.522 25.776,15.522 C29.25,15.522 30,17.81 30,20.81 V27.135 Z" fill="{text_color}" />
-                        <circle cx="20" cy="20" r="20" fill="none" stroke="url(#accent-gradient)" stroke-width="1.5" opacity="0" filter="url(#soft-glow)">
-                            <animate attributeName="opacity" values="0; 0.5; 0" dur="4s" begin="4.5s" repeatCount="indefinite" />
-                        </circle>
-                    </g>
-                    <!-- Twitter -->
-                    <g transform="translate(120, 0)">
-                        <circle cx="20" cy="20" r="20" fill="{border_color}" />
-                        <path d="M22.46,14.172 H25.26 L19.145,21.163 L26.33,30.655 H20.707 L16.305,24.898 L11.267,30.655 H8.465 L14.981,23.21 L8.064,14.172 H13.827 L17.804,19.421 L22.46,14.172 Z M21.479,28.983 H23.031 L12.825,15.753 H11.162 L21.479,28.983 Z" fill="{text_color}" />
-                        <circle cx="20" cy="20" r="20" fill="none" stroke="url(#accent-gradient)" stroke-width="1.5" opacity="0" filter="url(#soft-glow)">
-                            <animate attributeName="opacity" values="0; 0.5; 0" dur="4s" begin="5.5s" repeatCount="indefinite" />
-                        </circle>
-                    </g>
-                    <!-- Portfolio (Link icon) -->
-                    <g transform="translate(180, 0)">
-                        <circle cx="20" cy="20" r="20" fill="{border_color}" />
-                        <path d="M14 16h-3c-2.76 0-5-2.24-5-5s2.24-5 5-5h3v2h-3c-1.65 0-3 1.35-3 3s1.35 3 3 3h3v2zm9-10h-3v2h3c1.65 0 3 1.35 3 3s-1.35 3-3 3h-3v2h3c2.76 0 5-2.24 5-5s-2.24-5-5-5zm-11 6h8v2h-8z" fill="{text_color}" />
-                        <circle cx="20" cy="20" r="20" fill="none" stroke="url(#accent-gradient)" stroke-width="1.5" opacity="0" filter="url(#soft-glow)">
-                            <animate attributeName="opacity" values="0; 0.5; 0" dur="4s" begin="6.5s" repeatCount="indefinite" />
-                        </circle>
-                    </g>
-                </g>
             </g>
         </g>
     </g>
