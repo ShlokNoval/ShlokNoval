@@ -276,6 +276,7 @@ def generate_svg(mode):
         sx += pill_width + 12
         delay += 0.1
 
+    svg += f"""
                     </g>
                 </g>
 
