@@ -98,12 +98,31 @@ fun_fact: 6x Hackathon Winner 🏆
 
 | 🥇 | Achievement | Details |
 |---|---|---|
-| 🏆 | **6x Hackathon Winner** | Multiple national-level hackathon victories |
+| 🥇 | **Microsoft MOS AIR 2** | Certified in 2021; Qualified for 3 consecutive years with Gold/Silver Medals at National level |
+| 🏆 | **National Level I.D.E.A. Hackathon** | 1st Rank (Won 50,000 INR & Goodies) |
+| 🏆 | **TechSprint 2026 Hackathon** | Special Sponsor Award (1st Rank - Won 50,000 INR worth Coupons & Internship) |
+| 🏆 | **National Level Hack The Gap 2.0 2026** | 2nd Runner Up (Won Trophy & 15,000 INR) |
+| 🏆 | **State Level Stellar – Supernova Hackathon** | 1st Rank (Won 5,000 INR & Goodies) |
+| 🏆 | **National Level Techathon 3.0** | Domain Winner (1st Rank - Won Trophy & 10,000 INR) |
+| 🌟 | **National Level MAGIC BATIC 2025-26** | Top 10 PAN India |
+| 🏆 | **E-GOV Hackathon Pitch** | 1st Rank at Swayambhu 2025, MGM University |
+| 🥉 | **SharpTech** | 3rd Rank, MGM University |
+| 🎖️ | **E-MERGE 2.0 Entrepreneurship Challenge 2024** | 6th Rank, IIT Hyderabad |
+| 🚀 | **SIH 2025** | College Level Finalists (Smart India Hackathon) |
+| ☁️ | **Champion Milestone Achiever** | Google Arcade & Google Cloud Arcade Milestone Program 2024 and 2025 |
+| 📝 | **State-level NCO Olympiad** | Qualifier |
 | 🎓 | **AIML Intern @ IIT Hyderabad** | Research internship in AI/ML domain |
-| 🎤 | **TEDxMGMU** | Former TEDx Logistics Head |
-| 💻 | **Google Developer Group** | Ex-GDG community contributor |
-| 🏅 | **Microsoft MOS AIR 2** | Certified (2021) |
-| 📚 | **15+ MKCL Courses** | Completed certified courses |
+| 🎓 | **Google Student Ambassador** | 2025 – Lead 2026-2027, JNEC, MGM University |
+| 🎤 | **TEDxMGMU** | Official Logistics Head (2024, 2025) – Managed event for 200+ members |
+| 💻 | **Google Developer Group (GDG)** | Event Management Team (2024-2025) |
+| 📅 | **Event Management Head** | Training and Placement 2025-2027, JNEC |
+| ✍️ | **BlackBox AI Mavericks Club** | Content Creation Team (2024-2025) |
+| 🌍 | **E3L Hackathon 2025** | Overall Event Head – Coordinated 100+ Teams |
+| 🌱 | **NSS Green Club** | Campaign Coordinator – Led 50+ students in sustainability initiatives |
+| 💃 | **Dance Competition Winner & Choreographer** | Solo & Group (2025, 2026); Led cultural team |
+| 👨‍🏫 | **TopMate Certified Mentor** | Mentored 100+ Students with seminars and 1:1 guidance |
+| 🎓 | **IIT Bombay Spoken Tutorial** | Scored 90% in Intro to computers, 85% in Python |
+| 📚 | **15+ Certified Courses** | MKCL & Cisco (MS-CIT, Web Design, C/C++, Cyber Security, IT Hardware) |
 
 </div>
 
