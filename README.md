@@ -98,7 +98,7 @@ fun_fact: 6x Hackathon Winner 🏆
 
 | 🥇 | Achievement | Details |
 |---|---|---|
-| 🥇 | **Microsoft MOS AIR 2** | Certified in 2021; Qualified for 3 consecutive years with Gold/Silver Medals at National level |
+| 🥇 | **Microsoft MOS** | Top 10, AIR 3, and AIR 2 respectively over 3 consecutive years with Gold/Silver Medals at National level |
 | 🏆 | **National Level I.D.E.A. Hackathon** | 1st Rank (Won 50,000 INR & Goodies) |
 | 🏆 | **TechSprint 2026 Hackathon** | Special Sponsor Award (1st Rank - Won 50,000 INR worth Coupons & Internship) |
 | 🏆 | **National Level Hack The Gap 2.0 2026** | 2nd Runner Up (Won Trophy & 15,000 INR) |
