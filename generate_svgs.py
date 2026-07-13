@@ -212,7 +212,7 @@ def generate_svg(mode):
                     <g clip-path="url(#typing-clip)">
                         <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold">
                             <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.25;0.25;0.55;0.55;1" dur="20s" repeatCount="indefinite" />
-                            &gt; AI &amp; ML Engineer
+                            &gt; Student &amp; Tech Enthusiast
                         </text>
                         <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
                             <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.55;0.55;1" dur="20s" repeatCount="indefinite" />
@@ -220,7 +220,7 @@ def generate_svg(mode):
                         </text>
                         <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
                             <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.55;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
-                            &gt; Flutter App Developer
+                            &gt; Open Source Contributor
                         </text>
                         <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
                             <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.85;0.85;1" dur="20s" repeatCount="indefinite" />
