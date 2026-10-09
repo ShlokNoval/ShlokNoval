@@ -25,7 +25,7 @@ located_in: Chh. Sambhajinagar (M.H.), India
 education: B.Tech CSE '27
 
 roles:
-  - 6x Hackathon Winner
+  - 7x Hackathon Winner
   - Building Scalable AIML Projects
   - Full stack and AIML freelance developer
 
