@@ -247,7 +247,7 @@
                     <g clip-path="url(#typing-clip)">
                         <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold">
                             <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.3;0.3;0.633;0.633;1" dur="15s" repeatCount="indefinite" />
-                            &gt; 6x Hackathon Winner
+                            &gt; 7x Hackathon Winner
                         </text>
                         <text x="0" y="0" fill="url(#accent-gradient)" font-family="monospace" font-size="24" font-weight="bold" opacity="0">
                             <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.3;0.633;0.633;1" dur="15s" repeatCount="indefinite" />
