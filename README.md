@@ -30,7 +30,7 @@ roles:
   - Full stack and AIML freelance developer
 
 currently_working_on: Building production-level AI-powered apps
-fun_fact: 6x Hackathon Winner 🏆
+fun_fact: 7x Hackathon Winner 🏆
 ```
 
 ---
